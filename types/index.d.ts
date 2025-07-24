@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
-
 // ====== USER PARAMS
 declare type CreateUserParams = {
     clerkId: string;
